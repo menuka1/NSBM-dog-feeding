@@ -1,0 +1,66 @@
+{
+  "history": {
+    "1702482103000": {
+      "dog-detection": false,
+      "food-level": 30,
+      "timestamp": 1702482103000,
+      "water-level": 20
+    },
+    "1702482104000": {
+      "dog-detection": true,
+      "food-level": 30,
+      "timestamp": 1702482104000,
+      "water-level": 20
+    },
+    "1708171661000": {
+      "dog-detection": true,
+      "food-level": 40,
+      "timestamp": 1708171661000,
+      "water-level": 50
+    },
+    "1711653683000": {
+      "dog-detection": false,
+      "food-level": 0,
+      "timestamp": 1711653683,
+      "water-level": 0
+    },
+    "1711654456000": {
+      "dog-detection": false,
+      "food-level": 0,
+      "timestamp": 1711654456,
+      "water-level": 0
+    },
+    "1711654529000": {
+      "dog-detection": true,
+      "food-level": 33,
+      "timestamp": 1711654529,
+      "water-level": 9
+    },
+    "1711655721000": {
+      "dog-detection": true,
+      "food-level": 9,
+      "timestamp": 1711655721,
+      "water-level": 33
+    }
+  },
+  "live_data": {
+    "dog-command": false,
+    "food-level": 9,
+    "sound1": false,
+    "sound2": false,
+    "sound3": false,
+    "sound4": false,
+    "water-level": 33
+  },
+  "notification": {
+    "istrue": false,
+    "message": "Dog motion Detected"
+  },
+  "users": {
+    "SuRsTGnS2VSnOymqq7WDE8KA4qJ3": {
+      "email": "user@gmail.com",
+      "name": "User",
+      "type": 2
+    }
+  }
+}
